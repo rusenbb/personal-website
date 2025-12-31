@@ -58,7 +58,7 @@
         "tags": ["NLP", "T5", "Transformers", "Turkish"],
         "links": [
           { "label": "GitHub", "url": "https://github.com/rusenbb/Biting-The-Bytes", "icon": "github" },
-          { "label": "Demo", "url": "https://huggingface.co/spaces/emircanerol/diacritizeTR", "icon": "huggingface" }
+          { "label": "Demo", "url": "https://huggingface.co/spaces/rusen/diacritizeTR", "icon": "huggingface" }
         ]
       },
       {
